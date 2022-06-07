@@ -14,3 +14,4 @@ numbers.forEach(function(element){
   console.log(element**2);
 
 })
+// the ** is sqauring the numbers 
