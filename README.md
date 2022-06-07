@@ -8,20 +8,28 @@ Dana, a data journalist, has been given the opportunity to write about her homet
 
 Use and navigation of the website is simple. Using a web browser, the user would input the HTML address and would navigate to the site below. The site homepage is defaulted to show a number of sightings: 
 
-***insert pic 1***
+![Picture 1](https://github.com/NShan9297/UFOs/blob/main/ScreenGrabs/Picture%201.jpg)
 
 The user is then able to navigate to their desired search parameter results, for example, if you wanted el cajon as a city, you would simply enter ‘el cajon’, in lowercase fashion, as shown in the prefilled examples, then simply click out of the search field and all instances of El Cajon UFO sightings that are contained within the JS file will populate:
 
-**insert pic 2***
+![pic 2](https://github.com/NShan9297/UFOs/blob/main/ScreenGrabs/pic%202.png)
+
 
 If the user wanted to filter by date and city, for example, they would be able to input those 2 parameters:
-**insert pic 3**
+
+
+![pic 3](https://github.com/NShan9297/UFOs/blob/main/ScreenGrabs/pic%203.png)
+
 
 The user may also search by shape:
-***Insert pic 4***
+
+![pic4](https://github.com/NShan9297/UFOs/blob/main/ScreenGrabs/pic4.png)
+
+
 Then, when all fields are cleared, we reach the beginning page:
 
-**insert pic 5**
+
+![pic 5](https://github.com/NShan9297/UFOs/blob/main/ScreenGrabs/pic%205.png)
 
 
 ## Summary ##
